@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:layoutDirection">ltr</item>
+        <item name="colorPrimary">#FF008577</item>
+        <item name="colorPrimaryDark">#FF00574B</item>
+        <item name="colorAccent">#FF4FA881</item>
+    </style>
+
+</resources>
